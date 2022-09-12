@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AshlavaDev
+- 👋 Hi, I’m Ashley, also known as @AshlavaDev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning hosting and javascript
+- 🌱 I’m currently learning hosting and javascript and web dev in general
 - 💞️ I’m looking to collaborate on any web dev projects
 - 📫 How to reach me at ashleymorgan19901023@gmail.com
 

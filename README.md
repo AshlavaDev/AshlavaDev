@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashley, also known as @AshlavaDev
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and accessibilty
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on any web dev projects
 - 📫 How to reach me at ashleymorgan19901023@gmail.com

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashley, also known as @AshlavaDev
 - 👀 I’m interested in web development and accessibilty
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently looking for web dev projects
 - 💞️ I’m looking to collaborate on any web dev projects
 - 📫 How to reach me: ashleymorgan.wbdv@gmail.com
 - Website: https://ashleymorganwbdv.com/
